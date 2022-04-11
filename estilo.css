@@ -1,0 +1,5 @@
+#cabecera {color: crimson; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+.div_titulo .div_normie {font-size: large;font-family: Verdana, Geneva, Tahoma, sans-serif; padding-top: 10px; padding-bottom: 10px; background-color: darksalmon;}
+.div_normie {font-size: large;font-family: Verdana, Geneva, Tahoma, sans-serif; padding-top: 10px; padding-bottom: 10px;text-shadow: 40px 40px 40px 40px rebeccapurple;}
+.div_bkn {font-style: italic; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: red;}
+#foto2 {position:relative;left: 300px;bottom: 200px;}
